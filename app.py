@@ -27,7 +27,7 @@ def main():
     openai_api_key = st.sidebar.text_input("Enter your OpenAI API Key", type="password")
 
     # Main section for URL and Prompt
-    st.title("URL Content Fetcher")
+    st.title("URLScraperAI")
     
     url = st.text_input("Enter the URL:")
     prompt = st.text_area("Enter your prompt:")
