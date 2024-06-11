@@ -13,6 +13,7 @@ A simple Streamlit application that fetches content from a specified URL and pro
 
 - Python 3.8+
 - Streamlit
+- openai
 - scrapegraphai
 - chromium-chromedriver
 - playwright
@@ -49,7 +50,7 @@ A simple Streamlit application that fetches content from a specified URL and pro
 
 ## Dependencies
 - streamlit
-- requests
+- openai
 - scrapegraphai
 - chromium-chromedriver
 - playwright
