@@ -55,4 +55,4 @@ A simple Streamlit application that fetches content from a specified URL and pro
 - playwright
 
 ## License
-This project is licensed under the MIT License. See the (LICENSE)[https://www.youtube.com/watch?v=dQw4w9WgXcQ] file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://www.youtube.com/watch?v=dQw4w9WgXcQ) file for details.
