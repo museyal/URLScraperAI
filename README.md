@@ -1,4 +1,4 @@
-# URLScraperAI
+# [URLScraperAI](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 A simple Streamlit application that fetches content from a specified URL and processes it using the OpenAI API. This app allows users to input their OpenAI API key (password protected), a URL, and a custom prompt to fetch and display the content from the URL.
 
